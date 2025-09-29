@@ -1,0 +1,60 @@
+
+
+body{
+	color: white;
+	bbackground: #150cc2;
+    background: #a39dcc;
+    background: linear-gradient(90deg, rgba(163, 157, 204, 1) 0%, rgba(9, 9, 121, 1) 0%, rgba(21, 161, 189, 1) 100%);
+}
+
+a{
+	text-decoration: none;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+a:hover{
+    background-color: #962C7A;
+}
+
+.titulo{
+	font-size: 20px;
+    border-radius: 15px;
+    margin-left: 700px;
+    margin-right: 700px;
+    text-align: center;
+
+}
+
+.opcoes{
+	margin: 20px;
+	font-size: 30px;
+	text-align: center; 
+	background-color: #7D9AA8;
+	margin-left: 450px;
+	margin-right: 450px;
+	border-radius: 15px;
+}
+
+.contatos{
+    font-size: 25px;
+}
+
+img{
+	font-size: 5px;
+}
+
+.foto{
+	text-align: center;
+}
+
+
+p{
+	text-align: center;
+	font-size: 25px;
+}
+
+
+div{
+	margin-left: 30px;
+}
